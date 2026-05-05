@@ -67,7 +67,7 @@ A full-stack **MERN** (MongoDB, Express, React, Node.js) web application for col
 
 ### 1. Clone the repo
 ```bash
-git clone [https://github.com/ani29dy/TeamTaskManager.git](https://github.com/ani29dy/Team-Task-Manager.git)
+git clone https://github.com/ani29dy/Team-Task-Manager.git
 cd TeamTaskManager
 ```
 
