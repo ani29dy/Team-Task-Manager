@@ -2,8 +2,8 @@
 
 A full-stack **MERN** (MongoDB, Express, React, Node.js) web application for collaborative project and task management, featuring **role-based access control** (Admin/Member).
 
-🌐 **Live Demo:** [Your Railway URL here]  
-📁 **GitHub:** [Your GitHub repo here]
+🌐 **Live Demo:** [https://task-flow-manager.up.railway.app/]  
+📁 **GitHub:** [https://github.com/ani29dy/Team-Task-Manager]
 
 ---
 
